@@ -23,6 +23,7 @@ wheels/
 .venv
 venv/
 ENV/
+.pytest_cache/
 
 # Database
 *.db
